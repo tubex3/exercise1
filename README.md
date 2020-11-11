@@ -1,5 +1,5 @@
 # exercise1
-The first homework to create the first repository on Github
+The first homework to create the first repository on Github. During this exercise two functions in "Krajina_Aufgabe1" are testet. The firts function calculates the biggest common divisor. The second one calculates two fractrures. 
 
 Copyright [2020] [Toni Krajina]
 
